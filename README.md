@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img
+<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><
 
 
 <p align="center">                                              HANS-𝐌𝐃 
@@ -17,7 +17,7 @@
 
 
 
-<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img
+<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><
 
 
 #### SETUP 
@@ -32,7 +32,7 @@
 [`PAIRING CODE`](https://sessions-room-0f383a94422d.herokuapp.com/pair)
  
 
-<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img
+<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><
 
 
 #### DEPLOY TO HEROKU 
