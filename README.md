@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/a1TOgcP.jpeg'/></a><a><img src='https://i.imgur.com/a1TOgcP.jpeg'/></a>
+<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img
 
 
 <p align="center">                                              HANS-𝐌𝐃 
@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
-    <img alt=Support height="390" src="https://telegra.ph/file/7a6d5de6adcf7afd62620.jpg"> 
+    <img alt=Support height="390" src="https://i.imgur.com/a1TOgcP.jpeg"> 
     </p>
  
  
@@ -17,7 +17,7 @@
 
 
 
-<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a>
+<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img
 
 
 #### SETUP 
@@ -32,7 +32,7 @@
 [`PAIRING CODE`](https://sessions-room-0f383a94422d.herokuapp.com/pair)
  
 
-<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a>
+<a><img src='https://i.imgur.com/lfqWcEv.jpeg'/></a><a><img
 
 
 #### DEPLOY TO HEROKU 
