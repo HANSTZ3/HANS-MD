@@ -1,5 +1,5 @@
 {
-  "name": "Hans-md",
+  "name": "Andbad-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "bmw-md-boy"
   ],
-  "author": "hanstz",
+  "author": "Andbad",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
