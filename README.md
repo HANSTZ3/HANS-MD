@@ -2,11 +2,11 @@
 <p align="center">TIMNASA MD V1
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+TIMNASA+MD+BOT+CREATED+BY+TIMNASA+BOY+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+HANS+MD+BOT+CREATED+BY+HANS+BOY+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
  <a href="https://wa.me/message/J2ZL2GNK4GIUA1">
- <img alt="TIMNASA 𝕄𝔻" height="300" src="https://i.imgur.com/lfqWcEv.jpeg".
+ <img alt="HANS 𝕄𝔻" height="300" src="https://i.imgur.com/lfqWcEv.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
@@ -44,7 +44,7 @@ TIMNASA MD</b>, simple powerful bot </p>
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-FORK this repo TIMNASA-MD
+FORK this repo HANS-MD
 
 
 <a href="https://github.com/HANSTZ3/HANS-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -98,7 +98,7 @@ href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"  target="blank"><im
 The WhatsApp Bot TIMNASA MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 TIMNASA🍀_MD 🌟
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 HANS🍀_MD 🌟
 
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
