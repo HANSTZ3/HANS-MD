@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+﻿const { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { getBuffer } = require("../framework/dl/Function");
 const { default: axios } = require('axios');
@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_uptime of lucky md v5 bot is: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_uptime of TIMNASA MD  bot is: ${runtime(process.uptime())}_*`) 
 
    
 
@@ -40,7 +40,7 @@ zokou({ nomCom: 'uptime',
 zokou({ nomCom: 'ss',
     desc: 'screenshots website',
     Categorie: 'General',
-    reaction: '🎥', 
+    reaction: '📸', 
     fromMe: 'true', 
 
 },
@@ -57,7 +57,7 @@ let linkkk = `https://api.screenshotmachine.com/?key=c04d3a&url=${encodeURICompo
 
 let res = await getBuffer(linkkk);
 
-await zk.sendMessage(dest, { image: res, caption: '𝑾𝒆𝒃 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝒃𝒚 * ABROTECH BOT*'}, { quoted: ms });
+await zk.sendMessage(dest, { image: res, caption: '𝑾𝒆𝒃 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝒃𝒚 * TIMNASA-MD BOT*'}, { quoted: ms });
 
 
 }

@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜  HANS 𝕄𝔻 𝕍1 ⌟ ❐
+┏❏ ⌜  TIMNASA 𝕄𝔻  ⌟ ❐
 ┃ ⿻𝕄𝕠𝕕𝕖: ${mode}
 ┃ ⿻𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ⿻𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 > ┏━━━━━━━━━┓
-> ┣➠hans cmds
+> ┣➠TIMNASA cmds
 > ┗━━━━━━━━━┛\n
 
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 > ┏━━━━━━━━━━━━━━┓
-> ┣➠hans md V1 2024
+> ┣➠TIMNASA md 😎 2024
 > ┣➠Enjoy life  
 > ┗┳━━━━━━━━━━━━┳┛
 > ┏┻━━━━━━━━━━━━┻┓
-> ┃➠powered by Hans Tech
+> ┃➠powered by TIMNASA Tech
 > ┗━━━━━━━━━━━━━━┛\n
 
 

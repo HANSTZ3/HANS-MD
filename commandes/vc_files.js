@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+﻿const { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { getBuffer } = require("../framework/dl/Function");
 const { default: axios } = require('axios');
@@ -20,7 +20,7 @@ const runtime = function (seconds) {
 zokou({ nomCom: 'vcf',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '📄', 
+    reaction: '🗄️', 
     fromMe: 'true', 
 
 
@@ -40,7 +40,7 @@ zokou({ nomCom: 'vcf',
 zokou({ nomCom: 'getallmembers',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '♻️', 
+    reaction: '😎', 
     fromMe: 'true', 
 
 
@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f`) 
+                 await repondre(`https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`) 
 
    
 
@@ -78,10 +78,10 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'luckytgc',
+zokou({ nomCom: 'timnasagc',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🤭', 
+    reaction: '🤓', 
     fromMe: 'true', 
 
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'luckytgc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join HANS MD Whatsapp Chatroom* https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4`) 
+                 await repondre(`*Tap Here To follow WHATSAPP BOT  channeel * https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_hans md is running on its latest vision_*`) 
+                 await repondre(`*_TIMNASA MD is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_hans md v1_*`) 
+                 await repondre(`*_TIMNASA MD_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'luckywagc',
+zokou({ nomCom: 'timnasawagc',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'luckywagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join Hans Md WhatsApp Chartroom Group* https://wa.me/message/UTQ7TX2M7TDYM1`) 
+                 await repondre(`*Tap To Join WhatsApp Bot Group* https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4`) 
 
    
 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY HANS MD",
-    "By HansTech`) 
+    "POWERED BY HANS TECH",
+    "By HANS Tech`) 
 
    
 

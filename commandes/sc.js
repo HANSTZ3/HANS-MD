@@ -1,4 +1,4 @@
-const util = require('util');
+﻿ const util = require('util');
 const fs = require('fs-extra');
 const { zokou } = require(__dirname + "/../framework/zokou");
 const { format } = require(__dirname + "/../framework/mesfonctions");
@@ -40,20 +40,20 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/HANSTZ3/HANS-MD
+> https://github.com/HANSTZ3
+
+*FOR DEVELOPER T.ME*
+> https://wa.me/message/J2ZL2GNK4GIUA1
 
 *WHATSAPP CHANNEL*
-> https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4
-
-*WHATSAPP CHANNEL*
-https://wa.me/message/UTQ7TX2M7TDYM1
+> https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/HANSTZ3/HANS-MD
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *HANS BOT*
+┃▓▒ *DEV* : *TIMNASA BOT*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -61,7 +61,7 @@ https://wa.me/message/UTQ7TX2M7TDYM1
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ HANS MD V1 
+     ┃▓ TIMNASA MD 
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
@@ -72,7 +72,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *Lucky Md*, Developed By Hans Sir" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *TIMNASA Md*, Developed By TIMNASA " , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -82,7 +82,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *HANS MD V1*, Developed By Hans Sir" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *TIMNASA MD V1*, Developed By TIMNASA" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);

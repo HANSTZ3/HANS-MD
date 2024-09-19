@@ -4,7 +4,7 @@ const { getJson } = require("../framework/utils");
 zokou({
   nomCom: "movie",
   categorie: "Search",
-  reaction: "💿"
+  reaction: "🎥"
 }, async (origineMessage, zk, commandeOptions) => {
   const { repondre, arg } = commandeOptions;
 

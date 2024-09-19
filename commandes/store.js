@@ -22,12 +22,12 @@ zokou({ nomCom: "cpu", categorie: "deploy" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = " *HANS 𝛭𝐷*\n\n";
+    let menuMsg = " *TIMNASA 𝛭𝐷*\n\n";
     /*menuMsg+=`
     
     
     
-    Owner : ${s.NOM_OWNER} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : Djalega++ \n\n ╰────────────────`;
+    Owner : ${s.NOM_OWNER} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : hans tech ╰────────────────`;
     
     
     
@@ -44,18 +44,18 @@ zokou({ nomCom: "cpu", categorie: "deploy" }, async (dest, zk, commandeOptions) 
    ||      Date : ${date}
    ||      Heure : ${temps}
    ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Développeurs : Djalega++||Luffy
+   ||  Développeurs : hans tech tz
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
 𝙷𝙴𝙻𝙻𝙾𝚆 : ${ms.pushName}
-Response Speed 0.0093 _Second_ 
+Response Speed 0.00939999 _Second_ 
  0.007519999518990517 _miliseconds_
 
 Runtime : 1 hour, 34 minutes, 55 seconds
 
 ðŸ’» Info Server
-RAM: 117.3 GB / 125.72 GB
+RAM: 117.3 GB / 500.72 TB
 
 _NodeJS Memory Usaage_
 rss         : 165.25 MB
@@ -74,89 +74,89 @@ AMD Ryzen 5 3600 6-Core Processor (3961.333333333333 MHZ)
 _CPU Core(s) Usage (12 Core CPU)_
 1. AMD Ryzen 5 3600 6-Core Processor (3949 MHZ)
 - *user* : 66.87%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 20.18%
 - *idle* : 12.94%
-- *irq*  : 0.00%
+- *irq*  : 1.00%
 
 2. AMD Ryzen 5 3600 6-Core Processor (3949 MHZ)
 - *user* : 67.82%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 12.61%
 - *idle* : 19.57%
 - *irq*  : 0.00%
 
 3. AMD Ryzen 5 3600 6-Core Processor (3949 MHZ)
 - *user* : 66.77%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 20.29%
 - *idle* : 12.95%
-- *irq*  : 0.00%
+- *irq*  : 1.00%
 
-4. AMD Ryzen 5 3600 6-Core Processor (3949 MHZ)
+4. AMD Ryzen 5 3600 7-Core Processor (3949 MHZ)
 - *user* : 65.12%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 21.69%
 - *idle* : 13.19%
 - *irq*  : 0.00%
 
 5. AMD Ryzen 5 3600 6-Core Processor (3949 MHZ)
 - *user* : 64.55%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 22.22%
 - *idle* : 13.23%
 - *irq*  : 0.00%
 
 6. AMD Ryzen 5 3600 6-Core Processor (3949 MHZ)
 - *user* : 64.58%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 22.23%
 - *idle* : 13.18%
 - *irq*  : 0.00%
 
 7. AMD Ryzen 5 3600 6-Core Processor (3974 MHZ)
 - *user* : 66.02%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 20.93%
 - *idle* : 13.05%
 - *irq*  : 0.00%
 
 8. AMD Ryzen 5 3600 6-Core Processor (3974 MHZ)
 - *user* : 71.50%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 15.27%
 - *idle* : 13.23%
 - *irq*  : 0.00%
 
 9. AMD Ryzen 5 3600 6-Core Processor (3974 MHZ)
 - *user* : 65.79%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 21.12%
 - *idle* : 13.09%
 - *irq*  : 0.00%
 
 10. AMD Ryzen 5 3600 6-Core Processor (3974 MHZ)
 - *user* : 64.58%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 22.01%
 - *idle* : 13.40%
 - *irq*  : 0.00%
 
 11. AMD Ryzen 5 3600 6-Core Processor (3973 MHZ)
 - *user* : 64.22%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 22.44%
 - *idle* : 13.34%
 - *irq*  : 0.00%
 
 12. AMD Ryzen 5 3600 6-Core Processor (3973 MHZ)
 - *user* : 64.18%
-- *nice* : 0.00%
+- *nice* : 1.00%
 - *sys*  : 22.45%
 - *idle* : 13.38%
 - *irq*  : 0.00%
 𝙽𝚘𝚝𝚎 : 𝚋𝚘𝚝 𝚊𝚛𝚎𝚗'𝚝 𝚏𝚘𝚛 𝚏𝚛𝚎𝚎
-𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 Hans 𝚖𝚍\n\n`;
+𝚔𝚎𝚎𝚙 𝚞𝚜𝚒𝚗𝚐 TIMNASA 𝚖𝚍\n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
             emoji[cat] = "";

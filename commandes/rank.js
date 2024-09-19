@@ -1,4 +1,4 @@
-const {zokou} = require("../framework/zokou");
+﻿const {zokou} = require("../framework/zokou");
 const {getMessagesAndXPByJID,getBottom10Users} = require("../bdd/level");
 
 
@@ -134,7 +134,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ Hans rank menu ┗━━━┓
+┏━━━┛ TIMNASA rank menu ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -146,7 +146,7 @@ zokou( {
 
     *Messages :* ${rank.messages}
     
-   ┕━✿━┑ hans tech ┍━✿━┙`
+   ┕━✿━┑ timnasa tech ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
@@ -210,7 +210,7 @@ zokou( {
     
     
          let msg = `
-┏━━━┛ hans md V1 rank menu  ┗━━━┓
+┏━━━┛ TIMNASA md  rank menu  ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -222,7 +222,7 @@ zokou( {
 
   *Messages :* ${rang.messages}
 
-   ┕━✿━┑ hans tech ┍━✿━┙`
+   ┕━✿━┑ TIMNASA tech ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
@@ -251,7 +251,7 @@ zokou( {
     const {ms , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ hans ezra┗━━┓\n\n`
+       let msg = `┏━━┛ TIMNASA boy┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
@@ -270,7 +270,7 @@ zokou( {
          } else if ( data.level >= 15 && data.level < 20 ) {
             role = 'Ninja-chunin'
          } else if ( data.level >= 20 && data.level < 25 ) {
-            role = 'Ninja-jonin'
+            role = 'HANS-jonin'
          } else if ( data.level >= 25 && data.level < 30 ) {
             role = 'ANBU'
          } else if ( data.level >= 30 && data.level < 35 ) {
@@ -287,7 +287,7 @@ zokou( {
             msg += `-----------------------
             
  *Name :* @${rank.jid.split("@")[0]}
-*Level :* ${data.level}
+*Level :* ${data.level} 
 *Role :* ${role}\n` ;
 
         mention.push(rank.jid) ;

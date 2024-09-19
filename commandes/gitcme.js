@@ -4,7 +4,7 @@ const axios = require('axios');
 //--------
 async function githubstalk(user) {
     return new Promise((resolve, reject) => {
-        axios.get('https://api.github.com/users/'+user)
+        axios.get('https://api.github.com/HANSTZ3/'+user)
         .then(({ data }) => {
             let info = {
                 username: data.login,
@@ -46,16 +46,16 @@ zokou(
     const { username, following, followers, type, bio, company, blog, location, email, public_repo, public_gists, profile_pic, created_at, updated_at, html_url, name, id } = await githubstalk(arg.join(' '));
     const info = `*── 「 GITHUB USER INFO 」 ──*
 
-🔖 *Nickname :* ${name}
-🔖 *Username :* ${username}
+🔖 *Nickname :* ${HANSTZ}
+🔖 *Username :* ${HANSTZ3}
 🚩 *Id :* ${id}
 ✨ *Bio :* ${bio}
 🏢 *Company :* ${company}
-📍 *Location :* ${location}
-📧 *Email :* ${email}
+📍 *Location :* ${DODOMA}
+📧 *Email :* ${hanstzgames@gmail.com}
 📰 *Blog :* ${blog}
 🔓 *Public Repos :* ${axios.get(public_repo).then((res) => res.data.map((repo) => !repo.private ? `\n- *${repo.name}* : https://github.com/${repo.full_name}`: null))}
-🔐 *Public Gists :* https://gist.github.com/${username}/
+🔐 *Public Gists :* https://gist.github.com/HANSTZ3/TIMNASA-MD${HANSTZ3}/
 💕 *Followers :* ${followers}
 👉 *Following :* ${following}
 🔄 *Updated At :* ${updated_at}

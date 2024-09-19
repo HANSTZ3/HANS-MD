@@ -9,18 +9,24 @@ const conf = require("../set");
 zokou({
   'nomCom': "agents",
   'categorie': 'General',
-  'reaction': "🤙"
+  'reaction': "🌛"
 }, async (_0x1b06c5, _0x54bb8b, _0x2358bf) => {
   const {
     ms: _0x2aecc0,
     mybotpic: _0x43a6e2
   } = _0x2358bf;
   const _0x21b56d = [{
-    'nom': "Hans from Kenya",
-    'nom': "HansTech from Tanzania 🇹🇿",
-    'numero': "255692540143"
+    'nom': "TIMNASA from Tanzania",
+    'nom': "HANS Tech from Tanzania 🇹🇿",
+    'numero': "load..."
+  }, {
+    'nom': "TIMNASA from TANZANIA ",
+    'numero': "255784766591"
+  }, {
+    'nom': "HANSTZ",
+    'numero': "255756530143"
   }];
-  let _0x2d5c7e = "Hello👋  *I'm Lucky Md Wa Bot* \nThe Following Numbers Are For  *LUCKY_MD* Agents, \nYou Can Ask Them Anything Regarding Lucky Bot \nFollow Our Channel For More Tech :https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4 \n*KEEP USING HANS MD*:\n\n";
+  let _0x2d5c7e = "Hello👋  *I'm TIMNASA Md Wa Bot* \nThe Following Numbers Are For  *TIMENASA_MD* Agents, \nYou Can Ask Them Anything Regarding yesser Bot \nFollow Our Channel For More Tech :https://wa.me/message/J2ZL2GNK4GIUA1 \n*KEEP USING TIMNASA MD*:\n\n";
   for (const _0x14eeec of _0x21b56d) {
     _0x2d5c7e += "----------------\n(●) " + _0x14eeec.nom + " : https://wa.me/" + _0x14eeec.numero + "\n";
   }

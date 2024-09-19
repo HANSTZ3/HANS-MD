@@ -1,10 +1,10 @@
-"use strict";
+﻿"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://github.com/HANSTZ3/HANS-MD';
-  const img = 'https://telegra.ph/file/347ba7a613b4d025b89a8.jpg';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "🛠️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/HANSTZ3/TIMNASA-MD';
+  const img = 'https://i.imgur.com/a1TOgcP.jpeg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "⚙️", nomFichier: 
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *HANS_MD V1.*\n support our channel *by*,  https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4
+this is* *HANS_MD .*\n support our channel *by*,  https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4
 
 ╭─────────────────────➳
 │╭────────────────────➳
@@ -31,13 +31,13 @@ this is* *HANS_MD V1.*\n support our channel *by*,  https://chat.whatsapp.com/Ia
 ││ 🧧 *FORKS:* ${repoInfo.forks}
 ││ 📅 *RELEASE DATE:* ${releaseDate}
 ││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *Hans tech*
-││ 💞 *THEME:* *HANS*
-││ 🥰 *ENJOY TO USE HANS MD V1*
+││ 👨‍💻 *OWNER:* *TIMNASA tech*
+││ 💞 *THEME:* *TIMNASA BOY*
+││ 🥰 *ENJOY TO USE TIMNASA MD *
 │╰────────────────────➳
 │╭──────────────────❍ 
 ││  ╭───────────────➳
-││  │ _*Made With Hans Tech*_
+││  │ _*Made With hanstz Tech*_
 ││  ╰───────────────➳
 │╰──────────────────❍ 
 ╰─────────────────────➳ 
