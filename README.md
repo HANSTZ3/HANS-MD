@@ -6,7 +6,7 @@
  </p>
  
  <a href="https://wa.me/message/J2ZL2GNK4GIUA1">
- <img alt="TIMNASA 𝕄𝔻" height="300" src="https://telegra.ph/file/37882de26f9ffc60043ef.jpg".
+ <img alt="TIMNASA 𝕄𝔻" height="300" src="https://i.imgur.com/lfqWcEv.jpeg".
 
 </h1> 
 <p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕃
