@@ -1,5 +1,5 @@
 {
-  "name": "TIMNASA_MD",
+  "name": "HANS_MD",
   "version": "5.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,9 @@
     "c": "tsc"
   },
   "keywords": [
-    "timnasa",
+    "bot",
     "Baileys",
-    "hans",
+    "Zokou",
     "whatsapp",
     "whatsapp-bot",
     "Faouz995"
