@@ -1,26 +1,26 @@
 </h1> 
-<p align="center">HANS 𝕄𝔻 𝕍1
+<p align="center">TIMNASA 𝕄𝔻 𝕍1
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+HANS+MD+BOT+CREATED+BY+HANS+TZ+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+TIMNASA+MD+BOT+CREATED+BY+TIMNASA+TZ+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4">
- <img alt="Hans 𝕄𝔻 𝕍1" height="300" src="https://i.imgur.com/lfqWcEv.jpeg">
+ <img alt="TIMNASA 𝕄𝔻 𝕍1" height="300" src="https://i.imgur.com/lfqWcEv.jpeg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>HANS 𝕄𝔻 𝕍1</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA 𝕄𝔻 𝕍1</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
   <p align="center">
-<a href="https://github.com/HANSTZ3/HANS-MD><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
+<a href="https://github.com/TIMNASA/TIMNASA><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
-<a href="https://github.com/HANSTZ3/HANS-MD"><img title="Forks" src="https://github.com/HANSTZ3/HANS-MD"></a>
-<a href="https://github.com/HANSTZ3/HANS-MD"><img title="Watching" src="https://github.com/HANSTZ3/HANS-MD"></a>
+<a href="https://github.com/TIMNASA/TIMNASA"><img title="Forks" src="https://github.com/TIMNASA3/TIMNASA"></a>
+<a href="https://github.com/TIMNASA3/TIMNASA-MD"><img title="Watching" src="https://github.com/TIMNASATZ3/HANS-MD"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/HANSTZ3/HANS-MD"><b>HANS 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/TIMNASA3/TIMNASA"><b>TIMNASA 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -56,14 +56,14 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 HANS 𝕄𝔻 V1
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 TIMNASA 𝕄𝔻 V1
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-ғᴏʀᴋ ʜᴀɴs ᴍᴅ ᴠ1 ʀᴇᴘᴏ
+ғᴏʀᴋ TIMNASA MD V9 ʀᴇᴘᴏ
 
 
-<a href="https://github.com/HANSTZ3/HANS-MD"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://github.com/TIMNASATZ3/TIMNASA-MD"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝔽𝕆ℝ𝕂 𝕋ℍ𝕀𝕊 ℝ𝔼ℙ𝕆-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
@@ -122,7 +122,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ## License
 
-The WhatsApp Bot HANS 𝕄𝔻 𝕍1 made in Tanzania by hans tech
+The WhatsApp Bot TIMNASA 𝕄𝔻 𝕍1 made in Tanzania by hans tech
 
 
 
@@ -130,7 +130,7 @@ The WhatsApp Bot HANS 𝕄𝔻 𝕍1 made in Tanzania by hans tech
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**🄷🄰🄽🅂 TECH**](https://github.com/HANSTZ3/HANS-MD)
+- [**𝕥𝕚𝕞𝕟𝕒𝕤𝕒 TECH**](https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸𝕋Z3/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-MD)
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
 
