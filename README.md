@@ -1,5 +1,5 @@
 </h1> 
-<p align="center">TIMNASA 𝕄𝔻 𝕍1
+<p align="center">TIMNASA 𝕄𝔻 𝕍𝟡
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
@@ -9,18 +9,18 @@
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4">
- <img alt="TIMNASA 𝕄𝔻 𝕍1" height="300" src="https://i.imgur.com/lfqWcEv.jpeg">
+ <img alt="𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1" height="300" src="https://i.imgur.com/lfqWcEv.jpeg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
-<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>TIMNASA 𝕄𝔻 𝕍1</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
+<p align="center">ɪ ɪɴᴛʀᴏᴅᴜᴄᴇ <b>𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1</b>, ᴀ ᴘᴏᴡᴇʀғᴜʟ sɪᴍᴘʟᴇ ᴡᴀᴛsᴀᴘᴘ ʙᴏᴛ </p>
 
 </p>
   <p align="center">
 <a href="https://github.com/TIMNASA/TIMNASA><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
 <a href="https://github.com/Fred1e/lucky_md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Fred1e/lucky_md?&style=social"></a>
 <a href="https://github.com/TIMNASA/TIMNASA"><img title="Forks" src="https://github.com/TIMNASA3/TIMNASA"></a>
-<a href="https://github.com/TIMNASA3/TIMNASA-MD"><img title="Watching" src="https://github.com/TIMNASATZ3/HANS-MD"></a>
+<a href="https://github.com/TIMNASA3/TIMNASA-MD"><img title="Watching" src="https://github.com/TIMNASATZ3/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-MD"></a>
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/TIMNASA3/TIMNASA"><b>TIMNASA 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/TIMNASA3/TIMNASA"><b>𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 TIMNASA 𝕄𝔻 V1
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 V1
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
@@ -72,7 +72,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ## 𝟚.𝕊𝔼ℂ𝕆ℕ𝔻 𝕊𝕋𝔼ℙ 
 
 
- 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐
+ 𝔾𝔼𝕋 𝕊𝔼𝕊𝕊𝕀𝕆ℕ 𝕀𝔻 𝔹𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸
  
 
 <a href="https://hansaganicoder-b959e1c1d915.herokuapp.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/ℚℝ ℂ𝕆𝔻𝔼-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
@@ -122,7 +122,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 ## License
 
-The WhatsApp Bot TIMNASA 𝕄𝔻 𝕍1 made in Tanzania by hans tech
+The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1 made in Tanzania by  𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕋𝔼ℂℍ
 
 
 
