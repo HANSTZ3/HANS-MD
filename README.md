@@ -1,10 +1,10 @@
 </h1> 
-<p align="center">TIMNASA 𝕄𝔻 𝕍𝟡
+<p align="center">𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟡
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+TIMNASA+MD+BOT+CREATED+BY+TIMNASA+TZ+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝕋𝕀𝕄ℕ𝔸𝕊𝔸+MD+BOT+CREATED+BY+𝕋𝕀𝕄ℕ𝔸𝕊𝔸+TZ+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/TIMNASA3/TIMNASA"><b>𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸/TIMNASA"><b>𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟟</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 V1
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍𝟡
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
@@ -130,7 +130,7 @@ The WhatsApp Bot 𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕄𝔻 𝕍1 made in Tanzania by 
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**𝕥𝕚𝕞𝕟𝕒𝕤𝕒 TECH**](https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸𝕋Z3/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-MD)
+- [**𝕋𝕀𝕄ℕ𝔸𝕊𝔸 𝕋𝔼ℂℍ**](https://github.com/𝕋𝕀𝕄ℕ𝔸𝕊𝔸/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-𝕄𝔻)
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
 
