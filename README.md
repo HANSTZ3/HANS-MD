@@ -24,7 +24,7 @@
 <a href="https://github.com/TIMNASA3/TIMNASA-MD"><img title="Watching" src="https://github.com/TIMNASA/𝕋𝕀𝕄ℕ𝔸𝕊𝔸-MD"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://i.imgur.com/8ldvQG7.jpeg=.me/{Fred1e}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
